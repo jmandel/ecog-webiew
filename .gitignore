@@ -1,0 +1,13 @@
+*.log
+*.pyc
+*.tmproj
+*~
+.project
+*#
+.#*
+*.swo
+*.swp
+node_modules
+acousticdata
+neuraldata
+webapp/data

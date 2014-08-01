@@ -1,0 +1,13 @@
+#container{ padding-top: 50px;}
+
+.electrode .number{
+  font-weight: bold;
+}
+
+span.electrode {
+ display: inline-block;
+ vertical-align: top;
+}
+
+.settings {
+}
